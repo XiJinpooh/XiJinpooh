@@ -7,9 +7,9 @@
 
 
 <p align="center">
-<a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/discord.png"/></a>
+<a href= "https://i.imgur.com/1f79dnb.png"><img src="https://img.icons8.com/discord.png"/></a>
 <a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/twitter.png"/></a>
-<a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/fluency-systems-regular/48/000000/minecraft-creeper.png"/>
+<a href= "https://namemc.com/profile/_XiJinpooh.1"><img src="https://img.icons8.com/fluency-systems-regular/48/000000/minecraft-creeper.png"/>
 </p>
 
 <p align="center"><samp>
