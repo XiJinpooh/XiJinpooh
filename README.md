@@ -9,7 +9,7 @@
 <p align="center">
 <a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/discord.png"/></a>
 <a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/twitter.png"/></a>
-<a href= "https://twitter.com/_XiJinpooh"><img src="<img src="https://img.icons8.com/office/40/000000/minecraft-logo.png"/>"/></a>
+<a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/office/40/000000/minecraft-logo.png"/></a>
 </p>
 
 <p align="center"><samp>
