@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Professional skidder, loves blockgame aka Minecraft.⛏ Planning to learn java and minecraft modding 💪💪</samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://static.zerochan.net/Vladilena.Miliz%C3%A9.full.3300008.jpg">
 </p>
 
 
