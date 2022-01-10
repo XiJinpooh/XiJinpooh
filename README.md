@@ -9,7 +9,7 @@
 <p align="center">
 <a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/discord.png"/></a>
 <a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/twitter.png"/></a>
-<a href= "https://twitter.com/_XiJinpooh"><img src="https://icons8.com/icon/aFKNWWquUYRN/minecraft"/></a>
+<a href= "https://twitter.com/_XiJinpooh"><img src="https://icons8.com/icon/aFKNWWquUYRN/minecraft.png"/></a>
 </p>
 
 <p align="center"><samp>
@@ -20,7 +20,7 @@ Check out my repos ⬇️
 ![](https://visitor-badge.glitch.me/badge?page_id=XiJinpooh.XiJinpooh)
 
 <!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XiJinpooh/XiJinpooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
