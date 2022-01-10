@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Professional skidder, loves blockgame aka Minecraft.⛏ Planning to learn java and minecraft modding 💪💪</samp></h4>
 
 <p align="center">
-  <img width="250"https://i.pinimg.com/originals/95/db/9b/95db9b38bc79aa7d4290b32f1f4f6710.jpg">
+  <img width="250""https://i.pinimg.com/originals/95/db/9b/95db9b38bc79aa7d4290b32f1f4f6710.jpg">
 </p>
 
 
