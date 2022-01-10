@@ -9,7 +9,7 @@
 <p align="center">
 <a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/discord.png"/></a>
 <a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="<img src="https://img.icons8.com/external-those-icons-lineal-color-those-icons/external-minecraft-video-games-those-icons-lineal-color-those-icons.png"/>"/></a>
+<a href="https://icons8.com/icon/aFKNWWquUYRN/minecraft">NameMC8</a>
 </p>
 
 <p align="center"><samp>
