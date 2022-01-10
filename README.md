@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/windows/32/000000/discord.png"/></a>
+<a href= "https://imgur.com/a/wSO2QjJ"><img src="https://img.icons8.com/discord.png"/></a>
 <a href= "https://twitter.com/_XiJinpooh"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
