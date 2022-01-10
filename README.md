@@ -2,7 +2,7 @@
 <h4 align="center"><samp> Professional skidder, loves blockgame aka Minecraft.⛏ Planning to learn java and minecraft modding 💪💪</samp></h4>
 
 <p align="center">
-  <img width="250"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f5494361-73b6-433e-bde7-e184549083ef/deui64n-66a8f90f-f496-4add-8764-e7960cf6170b.png/v1/fill/w_236,h_400,strp/eighty_six___vladilena_milize__lena__render_by_karmalinh_deui64n-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQ5OCIsInBhdGgiOiJcL2ZcL2Y1NDk0MzYxLTczYjYtNDMzZS1iZGU3LWUxODQ1NDkwODNlZlwvZGV1aTY0bi02NmE4ZjkwZi1mNDk2LTRhZGQtODc2NC1lNzk2MGNmNjE3MGIucG5nIiwid2lkdGgiOiI8PTE0NzUifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.u3bm13mAYwvzqSNK2EqN7paCeB-O_iqvWUOlA47_Bj8">
+  <img width="250"https://i.pinimg.com/originals/95/db/9b/95db9b38bc79aa7d4290b32f1f4f6710.jpg">
 </p>
 
 
